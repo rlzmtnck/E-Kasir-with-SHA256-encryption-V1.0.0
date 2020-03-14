@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584166771 source:c:\users\rulz\documents\github\kasir\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<ctime>
+	<windows.h>
+	"sha26.cpp"
+
+1584165006 c:\users\rulz\documents\github\kasir\sha26.cpp
+	<cstring>
+	<fstream>
+	"sha26.h"
+
+1584165539 c:\users\rulz\documents\github\kasir\sha26.h
+	<string>
+
